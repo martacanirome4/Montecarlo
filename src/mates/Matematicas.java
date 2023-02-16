@@ -1,6 +1,5 @@
 package mates;
 import java.lang.Math;
-import java.util.Random;
 
 public class Matematicas {
     public static double generarNumeroPi(long pasos) {
