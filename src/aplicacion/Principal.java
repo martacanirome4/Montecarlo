@@ -10,5 +10,6 @@ public class Principal{
         System.out.println("Introduzca una cantidad de puntos para realizar el cálculo:");
         int myint = keyboard.nextInt();
         System.out.println("El número Pi es " + Matematicas.generarNumeroPi(myint));
+        keyboard.close();
     }
 }
