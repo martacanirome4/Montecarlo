@@ -24,8 +24,6 @@ make jar
 Ejecutar:
 java -jar Main.jar
 
-Generar documentacion HTML: MAKE DOC
-
 ## De manera grafica ##
 
 ![image-asset](https://user-images.githubusercontent.com/50625677/219369902-385168a8-8b7d-48da-898d-e06e144d280c.png)
