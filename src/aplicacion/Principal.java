@@ -4,8 +4,10 @@ import java.util.Scanner;
 
 public class Principal{
     /**
-     * 
-     * @param args
+     * @author Marta
+     * @version 1.0 16/02/23
+     * @param args --> numero grante (muyint) a partir del que calcular Pi, por teclado
+     * Imprime por pantalla el valor obtenido de la función generarNumeroPi
      */
     public static void main(String[] args) {
 

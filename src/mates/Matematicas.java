@@ -3,9 +3,11 @@ import java.lang.Math;
 
 public class Matematicas {
     /**
-     * 
-     * @param pasos
-     * @return
+     * Esta clase contiene un metodo para generar Pi por Montecarlo
+     * @author Marta
+     * @version 1.0 16/02/23
+     * @param pasos --> numero grande a partir del cual se calcula el valor de Pi
+     * @return número pi
      */
     public static double generarNumeroPi(long pasos) {
 
